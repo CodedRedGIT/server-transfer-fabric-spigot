@@ -17,7 +17,7 @@ jobs:
           java-version: '16'
           distribution: 'temurin'
           cache: maven
-          server-id: worldql-partners-releases
+          server-id: codedredgit
           server-username: MAVEN_NAME
           server-password: MAVEN_SECRET
         
